@@ -1,0 +1,11 @@
+{
+    "name": "SHPS4Node-language",
+    "version": "1.0.0",
+    "description": "Language Manager used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-language.js",
+    "dependencies": {
+        "q": "^1.2.0",
+        "node-mod-load": "^2.1.0"
+    }
+}
